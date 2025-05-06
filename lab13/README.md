@@ -1,3 +1,4 @@
+```html
 <!doctype html>
 <html lang="ru">
 <head>
@@ -991,3 +992,4 @@
   </script>
 </body>
 </html>
+```
